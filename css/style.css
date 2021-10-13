@@ -1,0 +1,66 @@
+
+.container {
+
+    width: 80%;
+    margin: auto;
+}
+
+.box1 {
+
+    margin: 20px 0 0 0;
+}
+
+.box2 {
+
+    padding: 0px 0 5px 0;
+    margin-bottom: 3px;
+}
+
+.bg-gray {
+
+    background-color: rgb(235, 231, 231);
+}
+
+.block1 {
+    width: 39%;
+    float:left;
+    background-color: rgba(118, 213, 236, 0.863);
+    margin-right: 1%;
+    height: 60px;
+    padding: 10px 0 10px 0;
+
+}
+
+.block2 {
+    width: 20%;
+    float:left;
+    background-color: rgba(88, 195, 221, 0.863);
+    margin-right: 1%;
+    height: 80px;
+
+}
+
+.block3 {
+    width: 39%;
+    float:left;
+    background-color: rgba(64, 169, 196, 0.863);
+    height: 80px;
+}
+
+.input {
+    padding: 0;
+    width: 25%;
+}
+
+.button {
+    width: auto;
+    height: auto;
+}
+
+.lastline {
+
+    margin-top: 100px;
+
+
+}
+
